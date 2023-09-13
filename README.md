@@ -1,5 +1,7 @@
 ## Legendary Components version 0.0.1
 
+Some changes.
+
 > This library is meant as a quick refrence to react components and pages designs i mostly use.I decided to share. Have Fun. Send me an email for any clarifications at: dabikengineering@gmail.com
 
 > The main style sheet used is [**W3.css**.](https://www.w3schools.com/w3css/4/w3.css)  
